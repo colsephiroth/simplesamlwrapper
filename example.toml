@@ -1,0 +1,15 @@
+[WebServer]
+Host = ""
+Port = 0
+Root = ""
+
+[[SSL]]
+Enabled = false
+Crt = ""
+Key = ""
+
+[Saml]
+RootUrl = ""
+MetadataUrl = ""
+Crt = ""
+Key = ""
